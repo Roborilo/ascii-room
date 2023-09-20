@@ -2,7 +2,7 @@
 Um escape room simples feito em python
 
 ## Instalação de Módulos
-É necessário ter a versão mais atual de [python](https://www.python.org/) instalada para baixar os módulos.
+É necessário ter a versão mais atual de [python](https://www.python.org/) instalada para baixar os módulos. (lembre-se de clicar em "Add python to PATH" quando instalar.)
 
 unidecode (necessário)
   ```
