@@ -13,6 +13,6 @@ pyinstaller
   pip install pyinstaller
   ```
 ## Como Jogar
-Para jogar, basta instalar os modulos necessários acima e abrir o arquivo `game.py` ou baixar a ultima versão no repositório.
+Para jogar, basta baixar a ultima versão nos lançamentos. Caso queira alterar o código, será preciso clonar o repositório, baixar os módulos necessários e abrir o arquivo `game.py`.
 
-Caso queira compilar o jogo em um executavel, digite ```pyinstaller --onefile game.py``` com o pyinstaller instalado no local do arquivo. Ele será compilado e o executável guardado dentro da pasta `dist` que aparecerá.
+Caso queira compilar o jogo em um executável, digite ```pyinstaller --onefile game.py``` com o pyinstaller instalado no local do arquivo. Ele será compilado e o executável guardado dentro da pasta `dist` que aparecerá.
